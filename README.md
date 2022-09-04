@@ -1,4 +1,4 @@
-# WareHouse Of Crypto
+# WareHouse Of Crypto 💸💸
 
 ## 💻 Techs
 - React.js
