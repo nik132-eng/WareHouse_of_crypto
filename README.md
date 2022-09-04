@@ -15,11 +15,11 @@
 ### ✅ Install Dependencies
 With yarn:
 ```bash
-cd ./crypto-app && yarn
+ yarn
 ```
 With npm:
 ```bash
-cd ./crypto-app && npm install
+npm install
 ```
 ### 🏃‍♂️ Run the project
 With yarn:
