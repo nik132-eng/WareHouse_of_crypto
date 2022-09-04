@@ -1,0 +1,22 @@
+:root {
+	font-size: 10px;
+}
+
+body,
+html {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	overflow-x: hidden;
+	box-sizing: border-box;
+	background: #000000;
+}
+.root {
+	padding: 0;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
