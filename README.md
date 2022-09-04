@@ -5,9 +5,9 @@
 - Context API
 - Axios
 - React Icons
-## 📦 Installation
 
-### 📝 Clone the project
+
+
 
 
 
