@@ -1,4 +1,4 @@
-# CRYPTOCURRENCY STATS APP
+# WareHouse Of Crypto
 
 ## 💻 Techs
 - React.js
