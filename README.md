@@ -9,9 +9,9 @@
 
 ### 📝 Clone the project
 
-```bash
-git clone https://github.com/eyupucmaz/crypto-app.git
-```
+
+
+
 ### ✅ Install Dependencies
 With yarn:
 ```bash
