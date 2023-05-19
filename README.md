@@ -48,5 +48,5 @@ With npm:
 npm run start
 ```
 
-Contributing
+## Contributing
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please create an issue or submit a pull request. Make sure to follow the project's code style and guidelines when contributing.
